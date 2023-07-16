@@ -10,5 +10,4 @@
 -->
 
 
-//- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
